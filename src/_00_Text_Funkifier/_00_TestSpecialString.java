@@ -21,6 +21,7 @@ public class _00_TestSpecialString {
 		SpecialString bs = new BackwardsString("This is a test");
 		System.out.println(bs);
 		assertEquals("tset a si sihT", bs.toString());
+		
 	}
 	
 	//3. Fill in the funkifyTxt method in the MixedCapsString class
